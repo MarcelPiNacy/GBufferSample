@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{288990A5-4DB0-ABC7-4279-86944B8924C4}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GBufferSample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
